@@ -3,7 +3,7 @@
 
 ### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=jqrKQEJ6DpY&list=PLmY5AEiqDWwBHJ3i_8MDSszXXRTcFdkSu)
 
-Aula 01 = Introdução  
+Aula 01 = O que é Node e como instalar o Node.js no Windows  
 Aula 02 - Como usar o Node na prática  
 Aula 03 - Criando o servidor http  
 Aula 04 - Como instalar o Express e criar rotas no Nodejs  
